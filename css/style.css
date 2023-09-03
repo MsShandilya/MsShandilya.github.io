@@ -73,7 +73,7 @@ body
   max-width: 100%;
 }
 .skillSection , .contactSection{
-  background-color: #e74c3c;
+  background-color: #341A18;
   color:#fff;
 }
 
@@ -142,7 +142,7 @@ body
   font-size: 56px;
   margin-bottom: 10px;
   font-weight: 400;
-  color: #e74c3c;
+  color: #341A18
 }
 
 .squareContent h3{
@@ -171,7 +171,7 @@ body
 {
   width:350px;
   height:50px;
-  background-color: #e74c3c;
+  background-color: #341A18;
   border-radius: 10px;
   color: #444;
 }
@@ -188,7 +188,7 @@ body
 }
 
 #navigation{
-    background-color: #e74c3c;
+    background-color: #341A18
     padding: 20px 10px;
     z-index: 100;
     width: 100%;
