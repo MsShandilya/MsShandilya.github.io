@@ -19,7 +19,7 @@ $(document).ready(function()
      });
 
      var typed = new Typed(".typed",{
-         strings: ["CSE Undergraduate,NIT Patna"],
+         strings: ["Full Stack Web Developer (React+Node+Java)"],
          typeSpeed: 70,
          loop: true,
          startDelay: 1000,
