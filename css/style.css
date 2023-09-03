@@ -142,7 +142,7 @@ body
   font-size: 56px;
   margin-bottom: 10px;
   font-weight: 400;
-  color: #341A18
+  color: #341A18;
 }
 
 .squareContent h3{
@@ -188,7 +188,7 @@ body
 }
 
 #navigation{
-    background-color: #341A18
+    background-color: #341A18;
     padding: 20px 10px;
     z-index: 100;
     width: 100%;
